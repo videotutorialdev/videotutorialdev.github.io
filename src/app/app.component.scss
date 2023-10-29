@@ -1,0 +1,18 @@
+nav.nav.header-nav {
+  ul.menu-list {
+    margin: 0;
+    padding: 0;
+    li.menu-item {
+      list-style: none;
+      a.menu-link {
+        text-decoration: none;
+        color: #1abc9c;
+        font-weight: 800;
+        &:hover {
+          text-decoration: underline;
+          color: darken($color: #1abc9c, $amount: 5);
+        }
+      }
+    }
+  }
+}

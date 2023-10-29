@@ -27,7 +27,8 @@
               "src/favicon.ico",
               "src/assets",
               "src/CNAME",
-              "src/_redirects"
+              "src/_redirects",
+              "src/_config.yml"
             ],
             "styles": ["src/styles.scss"],
             "scripts": []
